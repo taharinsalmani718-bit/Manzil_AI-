@@ -65,3 +65,8 @@ Provides career guidance in multiple languages so students can understand easily
 
 - Frontend: React, TypeScript, Tailwind CSS
 - Backend: Supabase
+
+##Bash
+- cd "pathfinder-pandu-guide-main"
+- npm install
+- npx vercel --prod
